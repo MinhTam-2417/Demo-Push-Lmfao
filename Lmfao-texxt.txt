@@ -1,0 +1,3 @@
+Lmfaoooooo
+HMMMM
+print "Hello world"
